@@ -11,5 +11,5 @@ Then you should probably install electron (https://electron.atom.io/)
   * You can also clone it 
 * Open up the file into your text editor. 
 * In your terminal or command line, change the directory using 
-`$ cd <path to wherever you put the forked files to>`
+`$ cd <path where forked files are>`
 * From that directory, you can now run the program using `npm start`
